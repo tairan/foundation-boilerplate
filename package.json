@@ -1,0 +1,25 @@
+{
+  "name": "foundation-boilerplate",
+  "version": "1.0.0",
+  "description": "foundation boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tairan/foundation-boilerplate.git"
+  },
+  "keywords": [
+    "Foundation"
+  ],
+  "author": "Tairan Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tairan/foundation-boilerplate/issues"
+  },
+  "homepage": "https://github.com/tairan/foundation-boilerplate#readme",
+  "dependencies": {
+    "foundation-sites": "^6.4.4-rc1"
+  }
+}
